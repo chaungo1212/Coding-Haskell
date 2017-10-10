@@ -1,8 +1,7 @@
 
 -- Assignment 4 Part I, CSCE-314
 -- Section: 502
--- Student Name: Brandon Donohue, Chloe 
--- UIN: 516009215, 
+
 -- (Acknowledge any help received here)
 
 module Main where
